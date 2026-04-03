@@ -1,19 +1,25 @@
 <h1 align="center">Hi, I'm Aniketh Chavare 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE Student @ Jain University | Software Developer | Tech Generalist</b>
+  <a href="https://hits.sh/github.com/anikethchavare/">
+    <img src="https://hits.sh/github.com/anikethchavare.svg?label=Profile%20Views&color=79C0FF&style=flat-square" alt="Hits"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>1st Year B.Tech CSE Student @ Jain University | Software Developer <br> | Tech Generalist | Entrepreneurship & Business</b>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a **Computer Science & Engineering student** with a deep passion for building scalable software and exploring new technologies. Having transitioned from the startup space, I’m now focused on mastering **Backend Architecture**, **Cloud Infrastructure**, and **Full-stack Development**.
+I am a **Computer Science & Engineering student** with a deep passion for building scalable software and exploring new technologies. I’m now focused on mastering **Software Development**, **Backend Architecture**, and **Cloud Technologies**.
 
-- 🛠️ **Building:** [api.anikethchavare.com](https://api.anikethchavare.com) — A standardized API engine with integrated monitoring.
+- 💻 **Languages:** Python, Java, & JavaScript
+- 🛠️ **Technologies:** Cloud (AWS, GCP, Firebase), Databases (SQL & NoSQL), NodeJS, Git, GitHub, APIs
 - 🎓 **Education:** Currently in my 2nd Semester of B.Tech CSE.
-- 💡 **Interests:** Distributed Systems, API Design, and Business Logic Optimization.
-- 💬 **Ask me about:** Python, FastAPI, Java, or getting started in Tech.
+- 💬 **Ask Me About:** Tech Consulting, Startup Advice, Entrepreneurship, etc.
 
 ---
 
